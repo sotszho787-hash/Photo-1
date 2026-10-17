@@ -1,0 +1,4 @@
+filename,light,window_side
+# Filename or path relative to INPUT; allowed light: unknown/no-window/window; window_side: none/left/right/top/bottom
+# Example verified photo:
+# living_room.jpg,window,left

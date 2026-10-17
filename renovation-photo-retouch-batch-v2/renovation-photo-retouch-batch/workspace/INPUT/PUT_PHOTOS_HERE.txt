@@ -1,0 +1,1 @@
+Put photos here, or drag a ZIP/folder onto RUN_BATCH.bat.

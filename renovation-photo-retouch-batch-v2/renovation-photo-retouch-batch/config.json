@@ -1,0 +1,11 @@
+{
+  "faithful_strength": 0.45,
+  "aesthetic_strength": 0.82,
+  "default_light": "unknown",
+  "max_megapixels": 48,
+  "jpeg_quality": 95,
+  "comparison_max_width": 850,
+  "process_subfolders": true,
+  "max_archive_files": 800,
+  "max_archive_uncompressed_mb": 4096
+}

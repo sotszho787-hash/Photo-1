@@ -1,0 +1,4 @@
+interface:
+  display_name: "裝修相片後製｜無印風保真"
+  short_description: "保留真實裝修與所有物件，按實際窗光安全調色"
+  default_prompt: "使用 $renovation-photo-retouch 分析並後製我提供的裝修實景相片；所有裝修和物件都不准增減或更改。先判斷窗光，再做保守無印風調色，交付前後對照及光線報告。"
